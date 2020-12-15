@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 63bf9c77f3f223f419c564b04b0bf2f9
+timeCreated: 1526092056
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pacman: {fileID: 1497907351708990, guid: b87ffea522750234996dbd033915dd49, type: 2}
+  - blinky: {fileID: 1934770278040002, guid: 5579184e38a4ed54eba30ba14b3a679d, type: 2}
+  - clyde: {fileID: 1482660957828846, guid: 645f8bdcca18b3f4fa304e35b8352079, type: 2}
+  - inky: {fileID: 1428664786257272, guid: a5b35c016d8d5454a9500c0a8d132da4, type: 2}
+  - pinky: {fileID: 1732971902950272, guid: 9f93cfa3215d39a4a99c0d5b59483143, type: 2}
+  - startPanel: {fileID: 1433548100663336, guid: dc5c8188171cf4542b02c81ddd243700,
+      type: 2}
+  - gamePanel: {fileID: 1126045673948340, guid: 23f06305cf8a90d489e5ddc908dc4b8e,
+      type: 2}
+  - startCountDownPrefab: {fileID: 1022287529598062, guid: 363c49959f7e32746ae022dc84ad1eb4,
+      type: 2}
+  - gameoverPrefab: {fileID: 1597843088846960, guid: 0602e23ded1eb6843a4968235aa38aed,
+      type: 2}
+  - winPrefab: {fileID: 1086708039133374, guid: 8d4d6f7874fb4444d9f66ae41c50b786,
+      type: 2}
+  - startClip: {fileID: 8300000, guid: 4cd112b045eab3346b4cfca2a47d9f79, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
