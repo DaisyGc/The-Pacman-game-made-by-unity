@@ -11,6 +11,6 @@ public class JumpScene : MonoBehaviour
     }
     public void ExitTheGame()
     {
-        Application.Quit();
+        SceneManager.LoadScene("_ChompMan-PM/Scenes/Level_01");
     }
 }
