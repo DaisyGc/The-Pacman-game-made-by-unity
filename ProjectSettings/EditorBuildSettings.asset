@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scene/pacmanl1.unity
+    path: 
     guid: 36805caf75302d34c8b49ff0ee8a4a99
   - enabled: 0
-    path: Assets/Scene/pacmanl2.unity
+    path: 
     guid: dcd89b828a102ad46b789b53c99135b1
   - enabled: 1
     path: Assets/Scene/cdrl1.unity
@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scene/Exit.unity
     guid: ad1679bf52e988d4c975e71d93293f86
+  - enabled: 1
+    path: Assets/_ChompMan-PM/Scenes/Level_01.unity
+    guid: dbfe71574679e0442a39f4183ebfcf96
   m_configObjects: {}
